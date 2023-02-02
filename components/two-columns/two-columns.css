@@ -1,0 +1,8 @@
+.two__columns {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.two__columns-span-accent {
+    font-weight: 600;
+}
