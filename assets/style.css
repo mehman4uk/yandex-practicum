@@ -40,11 +40,12 @@
 @import url(../components/feynman/__subtitle/feynman-subtitle.css);
 @import url(../components/feynman/__title/feynman-title.css);
 
-@import url(../components/digits/__cell/table-cell.css);
-@import url(../components/digits/__heading/table-heading.css);
-@import url(../components/digits/__text/table-text.css);
 @import url(../components/digits/digits.css);
-@import url(../components/digits/__table/table.css);
+
+@import url(../components/tables/__cell/table-cell.css);
+@import url(../components/tables/__heading/table-heading.css);
+@import url(../components/tables/__text/table-text.css);
+@import url(../components/tables/__table/table.css);
 
 @import url(../components/khan/khan.css);
 @import url(../components/khan/__container/khan-container.css);

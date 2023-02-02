@@ -8,7 +8,7 @@
     width: 877px;
     height: 877px;
 }
-@keyframes rotate {
+@keyframes kaufman__triangle {
     0% {
       transform: rotate(-45deg)
     }
