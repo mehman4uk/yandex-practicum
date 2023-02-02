@@ -8,7 +8,8 @@
 @import url(../components/header/__square/header__square.css);
 @import url(../components/header/__subtitle/header__subtitle.css);
 @import url(../components/header/__title/header__title.css);
-@import url(../components/header/__rotate/header__rotate.css);
+
+@import url(../components/rotate/rotate.css);
 
 @import url(../components/title/__section-subtitle/section-subtitle.css);
 @import url(../components/title/__section-title/section-title.css);
