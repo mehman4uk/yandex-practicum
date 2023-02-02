@@ -61,3 +61,7 @@
 
 @import url(../components/kaufman/kaufman.css);
 @import url(../components/kaufman/__triangle/kaufman__triangle.css);
+
+@import url(../components/resources/resources.css);
+@import url(../components/resources/__item/resources__item.css);
+@import url(../components/resources/__logo/resources__logo.css);
