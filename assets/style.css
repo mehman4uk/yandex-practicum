@@ -1,10 +1,12 @@
 @import url(../assets/fonts/fonts.css);
 
+@import url(../components/logo/__place/logo_place_header.css);
+@import url(../components/logo/__place/logo_place_footer.css);
+@import url(../components/logo/logo.css);
 
 @import url(../components/header/header.css);
 @import url(../components/header/__illustration/header__illustration.css);
 @import url(../components/header/__link/header__link.css);
-@import url(../components/header/__logo/header__logo.css);
 @import url(../components/header/__square/header__square.css);
 @import url(../components/header/__subtitle/header__subtitle.css);
 @import url(../components/header/__title/header__title.css);
@@ -65,3 +67,11 @@
 @import url(../components/resources/resources.css);
 @import url(../components/resources/__item/resources__item.css);
 @import url(../components/resources/__logo/resources__logo.css);
+
+@import url(../components/footer/footer.css);
+@import url(../components/footer/__social-icon/social-icon.css);
+@import url(../components/footer/__columns/footer__columns.css);
+@import url(../components/footer/__column-heading/column-heading.css);
+@import url(../components/footer/__column-link/column-link.css);
+@import url(../components/footer/__author/footer__author.css);
+@import url(../components/footer/__columns/footer__columns.css);
