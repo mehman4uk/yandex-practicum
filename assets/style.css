@@ -50,6 +50,10 @@
 @import url(../components/tables/__text/table-text.css);
 @import url(../components/tables/__table/table.css);
 
+@import url(../components/title/__section-subtitle/__dark/section-subtitle_dark.css);
+@import url(../components/title/__section-title/__dark/section-title_dark.css);
+@import url(../components/tables/__heading/__dark/table__heading_dark.css);
+
 @import url(../components/khan/khan.css);
 @import url(../components/khan/__container/khan-container.css);
 @import url(../components/khan/__book-container/khan__book-container.css);
@@ -70,8 +74,9 @@
 
 @import url(../components/footer/footer.css);
 @import url(../components/footer/__social-icon/social-icon.css);
-@import url(../components/footer/__columns/footer__columns.css);
+@import url(../components/footer/__columns/columns.css);
 @import url(../components/footer/__column-heading/column-heading.css);
 @import url(../components/footer/__column-link/column-link.css);
 @import url(../components/footer/__author/footer__author.css);
 @import url(../components/footer/__columns/footer__columns.css);
+@import url(../components/footer/__column-links/column-links.css);
