@@ -10,3 +10,7 @@
     color: #ffffff;
     text-decoration: none;
 }
+.footer__column-link a:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
